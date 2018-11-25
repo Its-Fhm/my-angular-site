@@ -23,9 +23,21 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/assets/bootstrap.css",
+              "src/assets/style.css",
+              "src/assets/dark.css",
+              "src/assets/travel.css",
+              "src/assets/font-icon.css",
+              "src/assets/animate.css",
+              "src/assets/magnific-popup.css",
+              "src/assets/responsive.css"
+
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery.js",
+              "src/assets/js/functions.js",
+              "src/assets/js/plugins.js"
+            ]
           },
           "configurations": {
             "production": {
